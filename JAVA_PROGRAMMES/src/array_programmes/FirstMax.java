@@ -1,5 +1,7 @@
 package array_programmes;
 
+import java.util.ArrayList;
+
 public class FirstMax {
 
 	public static void main(String[] args) {
@@ -17,6 +19,13 @@ public class FirstMax {
 			}
 		}
 		System.out.println("First MAX is==="+arr[0]);
+		
+		
+		
+		
+		
+		
+		
 
 	}
 
